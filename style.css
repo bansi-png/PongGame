@@ -1,0 +1,52 @@
+body {
+  background: #1e1e1e;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 20px 0 10px;
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+#pong {
+  display: block;
+  margin: 24px auto;
+  background: #111;
+  box-shadow: 0 6px 32px #000a;
+  border-radius: 16px;
+}
+
+/* Made by Bansi Jhala
+Student at GLS University, Ahmedabad, Gujarat, India
+email: bansijhala@yahoo.com
+instagram: https://www.instagram.com/bansijhala/
+linkedin: https://www.linkedin.com/in/bansijhala/
+github: https://github.com/bansi-png */
+
+#scoreboard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-size: 24px;
+  margin: 12px 0;
+}
+
+#message {
+  font-size: 20px;
+  margin-top: 16px;
+  color: #00eaff;
+}
+
+#controls {
+  margin-top: 20px;
+  font-size: 18px;
+}
